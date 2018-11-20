@@ -27,7 +27,7 @@ my-app/
 yarn create react-app app <br>
 cd app <br>
 yarn add bootstrap@4.1.2 react-cookie@2.2.0 react-router-dom@4.3.1 reactstrap@6.3.0
-
+C:\refreact\referentielReact\node_modules\.bin\yarn.cmd add bootstrap@4.1.2 react-cookie@2.2.0 react-router-dom@4.3.1 reactstrap@6.3.0
 To proxy from /api to http://localhost:8080/api, add a proxy setting to app/package.json.
 
 "scripts": {...},
